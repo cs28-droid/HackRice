@@ -1,0 +1,2 @@
+# HackRice
+HydroCarbon structure generator
